@@ -1,6 +1,6 @@
-# Application Development 2 - Lab 2
+# Application Development - Dart Sudoku Example
 
-This template repository is the starter project for App. Dev. 2 labs. Written in Flutter/Dart.
+This template is written in Flutter/Dart.
 
 ### Question(s)
 
